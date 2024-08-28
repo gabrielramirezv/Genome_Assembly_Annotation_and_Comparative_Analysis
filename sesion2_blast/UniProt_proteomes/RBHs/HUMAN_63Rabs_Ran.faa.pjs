@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "HUMAN_63Rabs_Ran.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "HUMAN_63Rabs_Ran.faa",
+  "number-of-letters": 13930,
+  "number-of-sequences": 63,
+  "last-updated": "2024-08-22T13:55:00",
+  "number-of-volumes": 1,
+  "bytes-total": 75457,
+  "bytes-to-cache": 14618,
+  "files": [
+    "HUMAN_63Rabs_Ran.faa.pdb",
+    "HUMAN_63Rabs_Ran.faa.phr",
+    "HUMAN_63Rabs_Ran.faa.pin",
+    "HUMAN_63Rabs_Ran.faa.pog",
+    "HUMAN_63Rabs_Ran.faa.pos",
+    "HUMAN_63Rabs_Ran.faa.pot",
+    "HUMAN_63Rabs_Ran.faa.psq",
+    "HUMAN_63Rabs_Ran.faa.ptf",
+    "HUMAN_63Rabs_Ran.faa.pto"
+  ]
+}

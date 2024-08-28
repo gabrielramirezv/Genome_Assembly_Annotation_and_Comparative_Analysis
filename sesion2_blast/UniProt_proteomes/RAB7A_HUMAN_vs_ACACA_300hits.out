@@ -1,0 +1,244 @@
+sp|P51149|RAB7A_HUMAN	207	tr|L8HHF3|L8HHF3_ACACA	186	Ras-related protein Rab-7A OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_074580 PE=4 SV=1	208	71.635	23	6.25e-103	292	100
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPH2|L8GPH2_ACACA	205	Rab7/RabGfamily small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_325150 PE=4 SV=1	205	58.537	2	1.20e-86	251	99
+sp|P51149|RAB7A_HUMAN	207	tr|L8GXM9|L8GXM9_ACACA	197	GTPbinding protein YPTC5, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_383740 PE=4 SV=1	163	60.736	2	5.09e-64	193	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GRY8|L8GRY8_ACACA	186	Rab7/RabGfamily small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_325160 PE=4 SV=1	207	47.343	28	1.02e-58	179	98
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLL4|L8GLL4_ACACA	206	RAB family member (Rab7), putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_359270 PE=4 SV=1	164	50.000	4	4.58e-54	168	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGU8|L8HGU8_ACACA	187	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_075010 PE=4 SV=1	154	46.104	2	1.21e-49	156	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8HEH5|L8HEH5_ACACA	200	Rab7, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_075020 PE=4 SV=1	209	39.713	14	1.02e-46	149	99
+sp|P51149|RAB7A_HUMAN	207	tr|L8H231|L8H231_ACACA	184	GTPbinding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_264460 PE=4 SV=1	169	42.012	7	4.67e-44	141	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8HDY4|L8HDY4_ACACA	211	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_070500 PE=4 SV=1	99	64.646	0	3.84e-42	137	48
+sp|P51149|RAB7A_HUMAN	207	tr|L8H896|L8H896_ACACA	198	RAB1B, member RAS oncogene family OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_384590 PE=4 SV=1	171	37.427	7	1.65e-40	132	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GSP6|L8GSP6_ACACA	200	Ras-related protein Rab-2A, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_164790 PE=4 SV=1	184	38.587	4	4.17e-40	132	89
+sp|P51149|RAB7A_HUMAN	207	tr|L8GKG8|L8GKG8_ACACA	218	Rasrelated protein Rab5, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_091860 PE=4 SV=1	164	42.073	5	4.52e-40	132	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8HD31|L8HD31_ACACA	210	Rasrelated protein ORAB-1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_070630 PE=4 SV=1	164	37.805	4	2.20e-38	127	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8HJ43|L8HJ43_ACACA	213	RAB11B protein, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_289900 PE=4 SV=1	163	39.264	6	6.95e-38	126	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GX62|L8GX62_ACACA	209	Ras family GTP-binding protein YPT1 OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_063060 PE=4 SV=1	211	33.175	11	2.26e-37	125	99
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYQ2|L8GYQ2_ACACA	212	Raslike GTP-binding protein YPT1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_367900 PE=4 SV=1	170	36.471	4	2.62e-37	125	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8HBE5|L8HBE5_ACACA	207	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_384340 PE=4 SV=1	154	41.558	8	5.85e-36	121	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8HAC7|L8HAC7_ACACA	220	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_126680 PE=3 SV=1	206	35.437	8	6.14e-36	121	96
+sp|P51149|RAB7A_HUMAN	207	tr|L8HHY7|L8HHY7_ACACA	216	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_174900 PE=3 SV=1	201	30.348	3	6.15e-35	119	97
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYY7|L8GYY7_ACACA	209	Rasrelated protein Rab-18-like, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_369270 PE=4 SV=1	168	35.119	4	6.21e-35	118	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8H2N2|L8H2N2_ACACA	216	Rasrelated protein Rab-2B, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_201470 PE=4 SV=1	159	37.736	4	6.55e-35	119	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGZ3|L8HGZ3_ACACA	208	Rab8/RabEfamily small GTPase, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_175130 PE=4 SV=1	184	35.326	11	9.92e-35	118	89
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIV3|L8GIV3_ACACA	256	Ras subfamily Rab protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_091830 PE=4 SV=1	175	40.000	8	1.00e-34	119	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8HAR7|L8HAR7_ACACA	228	Rab GTPase, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_328080 PE=4 SV=1	179	35.196	15	2.56e-34	117	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIC5|L8GIC5_ACACA	228	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_399850 PE=4 SV=1	179	35.196	15	2.72e-34	117	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8H946|L8H946_ACACA	213	Ras-related protein Rab-14 OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_279530 PE=3 SV=1	164	38.415	4	4.52e-34	116	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8HHC7|L8HHC7_ACACA	216	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_109750 PE=3 SV=1	163	36.196	2	7.45e-34	116	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GH28|L8GH28_ACACA	237	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_256400 PE=4 SV=1	163	37.423	4	4.26e-33	114	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8HER3|L8HER3_ACACA	231	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_143990 PE=4 SV=1	192	35.417	14	2.20e-32	112	92
+sp|P51149|RAB7A_HUMAN	207	tr|L8H9Y3|L8H9Y3_ACACA	223	RAB8D, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_253150 PE=4 SV=1	190	37.895	20	3.54e-32	112	89
+sp|P51149|RAB7A_HUMAN	207	tr|L8GU59|L8GU59_ACACA	514	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_090170 PE=4 SV=1	168	37.500	2	4.99e-32	116	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLM7|L8GLM7_ACACA	217	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_364700 PE=4 SV=1	199	38.191	28	1.03e-31	111	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8HI25|L8HI25_ACACA	216	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_175240 PE=3 SV=1	174	32.184	1	1.10e-31	110	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8GF16|L8GF16_ACACA	213	GTP-binding nuclear protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_260190 PE=3 SV=1	190	32.632	11	1.55e-31	110	90
+sp|P51149|RAB7A_HUMAN	207	tr|L8H3F2|L8H3F2_ACACA	526	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_201200 PE=4 SV=1	182	34.066	3	1.91e-31	115	87
+sp|P51149|RAB7A_HUMAN	207	tr|L8H339|L8H339_ACACA	273	RAB36 member RAS oncogene family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_301250 PE=4 SV=1	168	36.310	8	3.53e-31	110	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GN15|L8GN15_ACACA	195	GTPbinding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_139260 PE=4 SV=1	161	34.161	4	4.72e-31	108	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJ03|L8GJ03_ACACA	244	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_093810 PE=4 SV=1	177	34.463	5	5.95e-31	109	85
+sp|P51149|RAB7A_HUMAN	207	tr|L8GQ44|L8GQ44_ACACA	206	Protein ras1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_220650 PE=4 SV=1	166	37.349	16	2.01e-30	107	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GTH9|L8GTH9_ACACA	519	Fbox domain and Ankyrin repeat containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_010610 PE=4 SV=1	168	35.119	3	2.28e-30	112	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8HJZ6|L8HJZ6_ACACA	238	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_296250 PE=3 SV=1	218	30.275	21	8.19e-30	106	99
+sp|P51149|RAB7A_HUMAN	207	tr|L8HIJ7|L8HIJ7_ACACA	220	Ras-related protein Rab-2-B OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_110390 PE=4 SV=1	181	33.702	5	1.73e-29	105	87
+sp|P51149|RAB7A_HUMAN	207	tr|L8H6F4|L8H6F4_ACACA	128	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054710 PE=4 SV=1	97	45.361	0	2.29e-29	102	47
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLA9|L8GLA9_ACACA	221	Likely rab family GTPbinding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_246860 PE=4 SV=1	188	34.043	12	3.22e-29	104	87
+sp|P51149|RAB7A_HUMAN	207	tr|L8GNH9|L8GNH9_ACACA	233	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_076440 PE=4 SV=1	169	33.728	5	3.96e-29	104	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GL91|L8GL91_ACACA	221	GTP-binding nuclear protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_096420 PE=3 SV=1	204	29.412	11	4.40e-29	104	97
+sp|P51149|RAB7A_HUMAN	207	tr|L8HCK2|L8HCK2_ACACA	204	RAB4, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_036030 PE=4 SV=1	172	33.140	9	5.13e-28	101	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8GX96|L8GX96_ACACA	249	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_089990 PE=3 SV=1	185	28.108	13	2.36e-27	100	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGB4|L8HGB4_ACACA	155	RabE family small GTPase (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_376480 PE=4 SV=1	127	36.220	4	3.56e-27	97.8	61
+sp|P51149|RAB7A_HUMAN	207	tr|L8H6Y7|L8H6Y7_ACACA	275	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_181840 PE=4 SV=1	213	32.864	12	3.57e-27	100	97
+sp|P51149|RAB7A_HUMAN	207	tr|L8HD72|L8HD72_ACACA	203	Small rabrelated GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_071100 PE=4 SV=1	209	30.144	11	4.08e-27	98.6	99
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJM6|L8GJM6_ACACA	184	small monomeric GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_095980 PE=4 SV=1	170	37.059	6	4.15e-27	98.4	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GK29|L8GK29_ACACA	264	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_243420 PE=4 SV=1	164	35.366	11	5.98e-27	99.5	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8GK29|L8GK29_ACACA	264	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_243420 PE=4 SV=1	51	39.216	0	1.49e-05	42.4	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8H1F1|L8H1F1_ACACA	206	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_369330 PE=4 SV=1	162	36.420	1	8.08e-27	98.1	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GNN9|L8GNN9_ACACA	184	Rab1/RabDfamily small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_077100 PE=4 SV=1	142	38.028	5	1.08e-26	97.2	68
+sp|P51149|RAB7A_HUMAN	207	tr|L8H806|L8H806_ACACA	172	Ras-related protein Rab-1A, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_229200 PE=4 SV=1	175	30.286	5	9.72e-26	94.4	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVW1|L8GVW1_ACACA	482	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_057810 PE=4 SV=1	165	33.333	6	1.11e-25	99.5	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H5G9|L8H5G9_ACACA	259	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_206060 PE=4 SV=1	174	33.908	15	1.48e-25	95.8	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8H2Q9|L8H2Q9_ACACA	211	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_269260 PE=4 SV=1	181	33.149	12	5.23e-25	93.6	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8HKN5|L8HKN5_ACACA	190	Raslike protein 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_289860 PE=4 SV=1	162	30.864	7	6.39e-25	92.7	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GHH9|L8GHH9_ACACA	208	GTPase NRas, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_373730 PE=4 SV=1	172	31.977	5	1.76e-24	92.2	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GTJ1|L8GTJ1_ACACA	195	Uncharacterized protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_276770 PE=4 SV=1	173	34.104	12	4.18e-24	90.8	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8H0T2|L8H0T2_ACACA	207	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_036890 PE=4 SV=1	132	40.152	10	4.34e-24	91.1	61
+sp|P51149|RAB7A_HUMAN	207	tr|L8H599|L8H599_ACACA	180	Rasrelated protein ralB-B, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054190 PE=4 SV=1	164	32.317	14	7.21e-24	89.9	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8H850|L8H850_ACACA	195	Rasrelated protein Rap-1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_278840 PE=4 SV=1	169	33.728	11	1.69e-23	89.4	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GGW7|L8GGW7_ACACA	244	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_151500 PE=4 SV=1	132	35.606	7	2.05e-23	89.9	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8HDL4|L8HDL4_ACACA	190	Ras small GTPbinding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_069110 PE=4 SV=1	162	32.099	7	2.65e-23	88.5	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GU20|L8GU20_ACACA	199	RAP1A, member of RAS oncogene family OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_331110 PE=4 SV=1	173	30.058	1	3.98e-23	88.2	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIJ6|L8GIJ6_ACACA	211	Ran small gtpase family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_095600 PE=3 SV=1	189	29.101	24	6.47e-23	88.0	90
+sp|P51149|RAB7A_HUMAN	207	tr|L8HJW4|L8HJW4_ACACA	202	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_295840 PE=4 SV=1	166	34.940	26	1.38e-22	87.1	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVE7|L8GVE7_ACACA	536	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_087450 PE=4 SV=1	132	36.364	7	3.33e-22	90.5	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8H889|L8H889_ACACA	266	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054110 PE=4 SV=1	164	29.878	12	6.78e-22	86.3	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8GSM1|L8GSM1_ACACA	206	Rasrelated GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_215620 PE=4 SV=1	172	31.395	11	7.53e-22	85.1	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GR44|L8GR44_ACACA	181	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_164860 PE=4 SV=1	189	29.101	12	1.17e-21	84.3	91
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIB7|L8GIB7_ACACA	210	Raslike protein rasG, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_399740 PE=4 SV=1	159	32.075	5	1.89e-21	84.3	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVE2|L8GVE2_ACACA	241	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_087400 PE=4 SV=1	131	34.351	9	2.14e-21	84.6	63
+sp|P51149|RAB7A_HUMAN	207	tr|L8GW16|L8GW16_ACACA	439	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_383090 PE=4 SV=1	167	33.533	4	4.07e-21	86.6	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPI5|L8GPI5_ACACA	98	RAS and EFhand domain containing, putative (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_050860 PE=4 SV=1	83	43.373	0	4.70e-21	80.9	40
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJ77|L8GJ77_ACACA	188	RAS protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_093590 PE=4 SV=1	158	34.810	6	5.48e-21	82.6	76
+sp|P51149|RAB7A_HUMAN	207	tr|L8GL37|L8GL37_ACACA	228	GTP-binding nuclear protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_095610 PE=3 SV=1	168	32.143	8	6.74e-21	83.2	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H969|L8H969_ACACA	203	GTPase, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_384550 PE=4 SV=1	170	30.588	18	7.01e-21	82.6	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H6F8|L8H6F8_ACACA	219	Ras-related protein Rab OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054760 PE=3 SV=1	163	29.448	5	7.92e-21	82.9	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8GU85|L8GU85_ACACA	401	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_087420 PE=4 SV=1	132	33.333	7	1.65e-20	84.6	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8HEF7|L8HEF7_ACACA	195	Ras family protein rasG, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_072140 PE=4 SV=1	166	31.325	5	1.68e-20	81.5	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8P6|L8H8P6_ACACA	204	Raslike protein 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_277750 PE=4 SV=1	155	31.613	4	1.79e-20	81.5	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8H1Y4|L8H1Y4_ACACA	192	Rabtype small GTP-binding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_040890 PE=4 SV=1	166	30.120	20	2.06e-20	81.2	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GV31|L8GV31_ACACA	550	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_382920 PE=4 SV=1	190	26.842	4	4.22e-20	84.6	90
+sp|P51149|RAB7A_HUMAN	207	tr|L8GII8|L8GII8_ACACA	298	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_151930 PE=4 SV=1	162	31.481	12	5.86e-20	81.8	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GMR5|L8GMR5_ACACA	196	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_366550 PE=4 SV=1	144	31.944	4	8.77e-20	79.5	70
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYC3|L8GYC3_ACACA	179	Rab1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_062920 PE=4 SV=1	161	32.298	9	9.19e-20	79.2	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8H5L1|L8H5L1_ACACA	215	GTP binding protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_113580 PE=4 SV=1	194	28.866	19	1.19e-19	79.5	91
+sp|P51149|RAB7A_HUMAN	207	tr|L8HF47|L8HF47_ACACA	188	Ras GTPase, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_360520 PE=4 SV=1	172	30.814	21	1.49e-19	79.0	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8GFD3|L8GFD3_ACACA	210	Uncharacterized protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_362820 PE=4 SV=1	193	27.979	25	1.99e-19	79.0	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8HJ94|L8HJ94_ACACA	221	Raclike protein (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_119270 PE=4 SV=1	175	28.000	16	2.55e-19	79.0	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVK4|L8GVK4_ACACA	218	Raslike protein rasS, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_129000 PE=4 SV=1	153	32.026	6	3.16e-19	78.7	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIK8|L8GIK8_ACACA	601	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_091840 PE=4 SV=1	141	34.043	7	3.65e-19	82.3	66
+sp|P51149|RAB7A_HUMAN	207	tr|L8GRA2|L8GRA2_ACACA	217	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_377890 PE=4 SV=1	171	29.825	5	8.45e-19	77.5	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8HCA4|L8HCA4_ACACA	199	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_157480 PE=4 SV=1	181	29.282	13	1.08e-18	76.7	87
+sp|P51149|RAB7A_HUMAN	207	tr|L8GDK1|L8GDK1_ACACA	190	Raslike protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_338010 PE=4 SV=1	164	31.707	14	1.41e-18	76.4	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVF2|L8GVF2_ACACA	199	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_304370 PE=4 SV=1	181	29.282	13	1.94e-18	76.1	87
+sp|P51149|RAB7A_HUMAN	207	tr|L8GS95|L8GS95_ACACA	558	RAB5B protein, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_211500 PE=4 SV=1	214	30.374	40	3.00e-18	79.5	88
+sp|P51149|RAB7A_HUMAN	207	tr|L8HE12|L8HE12_ACACA	206	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_360180 PE=4 SV=1	164	31.707	5	4.27e-18	75.3	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8HEM9|L8HEM9_ACACA	196	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_072220 PE=4 SV=1	161	30.435	4	6.69e-18	74.7	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GX07|L8GX07_ACACA	188	Raslike protein rasS, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_062400 PE=4 SV=1	167	26.946	5	8.37e-18	74.2	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLE5|L8GLE5_ACACA	193	RasG, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_038190 PE=4 SV=1	159	28.302	3	9.76e-18	74.2	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8H9W9|L8H9W9_ACACA	193	Rasrelated C3 botulinum toxin substrate 2, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_157740 PE=4 SV=1	153	30.719	11	1.12e-17	74.2	71
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8M5|L8H8M5_ACACA	228	Rac1 protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_282330 PE=4 SV=1	207	28.986	27	1.72e-17	74.2	90
+sp|P51149|RAB7A_HUMAN	207	tr|L8GQT2|L8GQT2_ACACA	587	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_163360 PE=4 SV=1	180	27.222	9	2.49e-17	77.0	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIH3|L8GIH3_ACACA	198	Ras family GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_091390 PE=4 SV=1	177	29.944	11	3.36e-17	73.0	86
+sp|P51149|RAB7A_HUMAN	207	tr|L8HG55|L8HG55_ACACA	163	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_326130 PE=4 SV=1	123	33.333	8	4.67e-17	71.9	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8HE18|L8HE18_ACACA	193	Rho family, small GTP binding protein Rac3, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_034510 PE=4 SV=1	194	24.742	11	8.75e-17	71.6	93
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIM0|L8GIM0_ACACA	203	Hras1 protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_091990 PE=4 SV=1	158	34.177	7	9.07e-17	71.9	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8GHB6|L8GHB6_ACACA	928	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_258270 PE=4 SV=1	135	29.630	4	9.45e-17	75.6	65
+sp|P51149|RAB7A_HUMAN	207	tr|L8HCN9|L8HCN9_ACACA	194	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_360170 PE=4 SV=1	159	31.447	32	1.04e-16	71.6	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8GXI3|L8GXI3_ACACA	196	Rho family, small GTP binding protein Rac3, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_064820 PE=4 SV=1	124	31.452	7	2.08e-16	70.8	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GCB8|L8GCB8_ACACA	225	Rasrelated C3 botulinum toxin substrate 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_180770 PE=4 SV=1	122	31.148	7	2.09e-16	71.4	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8P0|L8H8P0_ACACA	198	GTPase cRac1B, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_007770 PE=4 SV=1	124	31.452	7	2.71e-16	70.5	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8H0A8|L8H0A8_ACACA	208	Rasrelated C3 botulinum toxin substrate 2, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_369300 PE=4 SV=1	124	31.452	7	3.05e-16	70.5	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUP4|L8GUP4_ACACA	191	Rho family GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_204080 PE=4 SV=1	163	28.221	11	4.01e-16	70.0	76
+sp|P51149|RAB7A_HUMAN	207	tr|L8GCN1|L8GCN1_ACACA	193	RAS protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_338020 PE=4 SV=1	155	30.968	14	4.41e-16	70.0	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUF8|L8GUF8_ACACA	333	FYVE zinc finger domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_379220 PE=4 SV=1	204	26.471	20	2.23e-15	70.0	89
+sp|P51149|RAB7A_HUMAN	207	tr|L8H9C6|L8H9C6_ACACA	356	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_281300 PE=4 SV=1	205	27.805	27	4.11e-15	69.7	91
+sp|P51149|RAB7A_HUMAN	207	tr|L8GU86|L8GU86_ACACA	154	Rasrelated protein O-RAL, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_178270 PE=4 SV=1	124	33.065	7	1.55e-14	65.2	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUL3|L8GUL3_ACACA	140	RasG, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_078590 PE=4 SV=1	119	33.613	11	2.22e-14	64.3	55
+sp|P51149|RAB7A_HUMAN	207	tr|L8GZY0|L8GZY0_ACACA	200	Rasrelated protein Rac1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_064420 PE=4 SV=1	122	30.328	7	3.08e-14	65.2	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8GNA1|L8GNA1_ACACA	478	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_191700 PE=4 SV=1	156	30.128	20	3.11e-14	68.0	67
+sp|P51149|RAB7A_HUMAN	207	tr|L8GZS5|L8GZS5_ACACA	193	Ras GTPase rap1b, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_045310 PE=4 SV=1	147	32.653	10	3.26e-14	64.9	71
+sp|P51149|RAB7A_HUMAN	207	tr|L8H942|L8H942_ACACA	168	Raslike protein 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_384830 PE=4 SV=1	124	31.452	3	3.45e-14	64.6	60
+sp|P51149|RAB7A_HUMAN	207	tr|L8GQR5|L8GQR5_ACACA	244	Rasrelated protein Rab-39B, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_211270 PE=4 SV=1	97	37.113	9	3.62e-14	65.7	43
+sp|P51149|RAB7A_HUMAN	207	tr|L8GWU2|L8GWU2_ACACA	446	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_087380 PE=4 SV=1	123	30.081	9	1.16e-13	66.0	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GY91|L8GY91_ACACA	216	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_369720 PE=4 SV=1	180	27.778	32	1.59e-13	63.5	74
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUX5|L8GUX5_ACACA	197	Raslike protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_383110 PE=4 SV=1	172	28.488	16	1.98e-13	62.9	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8H886|L8H886_ACACA	195	Cell division control protein 42, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_384370 PE=4 SV=1	180	27.222	20	4.08e-13	62.1	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYD2|L8GYD2_ACACA	353	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_057130 PE=4 SV=1	192	26.042	18	4.94e-13	63.8	90
+sp|P51149|RAB7A_HUMAN	207	tr|L8GSR3|L8GSR3_ACACA	186	Rab11/RabAfamily small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_216930 PE=4 SV=1	160	26.250	35	5.37e-13	61.8	63
+sp|P51149|RAB7A_HUMAN	207	tr|L8GGY7|L8GGY7_ACACA	199	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_374280 PE=4 SV=1	180	30.556	19	5.65e-13	61.8	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GQ35|L8GQ35_ACACA	202	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_391210 PE=4 SV=1	151	31.788	14	1.00e-12	61.2	72
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPK3|L8GPK3_ACACA	398	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_051680 PE=4 SV=1	159	31.447	17	1.02e-12	63.2	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8GR43|L8GR43_ACACA	197	RAP1A, member of RAS oncogene family OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_215900 PE=4 SV=1	114	32.456	4	1.10e-12	60.9	55
+sp|P51149|RAB7A_HUMAN	207	tr|L8GP33|L8GP33_ACACA	205	Rasrelated protein Rac1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_066830 PE=4 SV=1	134	23.134	4	1.91e-12	60.4	65
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPS0|L8GPS0_ACACA	204	Uncharacterized protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_066590 PE=4 SV=1	134	27.612	6	1.98e-12	60.4	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVT4|L8GVT4_ACACA	567	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_090060 PE=3 SV=1	187	26.738	22	2.10e-12	62.9	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8H4Y7|L8H4Y7_ACACA	181	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_052550 PE=4 SV=1	175	29.143	11	3.29e-12	59.5	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8H7T7|L8H7T7_ACACA	194	Raslike protein rasG, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_285590 PE=4 SV=1	155	31.613	14	4.49e-12	59.3	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8HBB1|L8HBB1_ACACA	374	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_157500 PE=4 SV=1	163	26.994	5	7.50e-12	60.7	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8H0S4|L8H0S4_ACACA	434	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_167050 PE=4 SV=1	173	28.324	18	9.10e-12	60.7	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8HB60|L8HB60_ACACA	988	PH domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_228770 PE=4 SV=1	136	32.353	13	1.08e-11	60.9	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8HB60|L8HB60_ACACA	988	PH domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_228770 PE=4 SV=1	146	26.712	13	8.34e-07	46.6	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGG9|L8HGG9_ACACA	325	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_171980 PE=4 SV=1	138	32.609	11	1.93e-11	59.3	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8GG74|L8GG74_ACACA	320	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_152200 PE=4 SV=1	86	31.395	2	1.94e-11	59.3	42
+sp|P51149|RAB7A_HUMAN	207	tr|L8GXJ5|L8GXJ5_ACACA	229	GTPase cRac1B, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_383370 PE=4 SV=1	180	26.111	20	2.48e-11	57.9	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H5L2|L8H5L2_ACACA	300	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_201030 PE=4 SV=1	127	32.283	8	2.82e-11	58.7	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GXF9|L8GXF9_ACACA	714	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_064570 PE=4 SV=1	164	28.049	10	5.20e-11	59.0	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8GTU6|L8GTU6_ACACA	500	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_163840 PE=4 SV=1	164	28.659	20	6.15e-11	58.4	72
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUS9|L8GUS9_ACACA	248	Raslike protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_382130 PE=4 SV=1	220	24.091	38	6.40e-11	57.0	94
+sp|P51149|RAB7A_HUMAN	207	tr|L8HHY1|L8HHY1_ACACA	185	Rasrelated GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_174610 PE=4 SV=1	160	26.250	4	9.18e-11	55.6	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8GRC8|L8GRC8_ACACA	123	Rasrelated protein Rab-21, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_218470 PE=4 SV=1	54	46.296	0	9.50e-11	54.8	26
+sp|P51149|RAB7A_HUMAN	207	tr|L8GMY0|L8GMY0_ACACA	1152	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_131770 PE=4 SV=1	156	30.769	9	1.21e-10	57.9	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8GKU6|L8GKU6_ACACA	132	Ras family protein rasG, putative (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_038050 PE=4 SV=1	114	28.070	2	1.68e-10	54.2	55
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVQ5|L8GVQ5_ACACA	597	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_089210 PE=4 SV=1	168	23.810	12	3.63e-10	56.4	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUV8|L8GUV8_ACACA	798	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_090100 PE=4 SV=1	175	25.143	12	3.76e-10	56.4	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGF1|L8HGF1_ACACA	193	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_165210 PE=4 SV=1	167	28.743	17	5.51e-10	53.9	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8GW76|L8GW76_ACACA	167	RAC GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_204010 PE=4 SV=1	147	26.531	10	5.99e-10	53.4	69
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPX9|L8GPX9_ACACA	996	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_210240 PE=4 SV=1	179	26.816	15	1.44e-09	54.8	86
+sp|P51149|RAB7A_HUMAN	207	tr|L8HF57|L8HF57_ACACA	313	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_360620 PE=4 SV=1	186	25.806	25	2.82e-09	53.1	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8GZ54|L8GZ54_ACACA	178	Small GTPase RAC, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_370290 PE=4 SV=1	125	25.600	11	3.16e-09	51.7	60
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYP5|L8GYP5_ACACA	1055	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_138310 PE=4 SV=1	167	24.551	7	3.52e-09	53.6	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8S8|L8H8S8_ACACA	126	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_227760 PE=4 SV=1	94	31.915	10	4.04e-09	50.3	45
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGE6|L8HGE6_ACACA	1046	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_272090 PE=4 SV=1	189	23.810	18	4.49e-09	53.4	91
+sp|P51149|RAB7A_HUMAN	207	tr|L8GGR5|L8GGR5_ACACA	747	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_399930 PE=4 SV=1	182	25.824	33	6.34e-09	52.8	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GKP4|L8GKP4_ACACA	186	Uncharacterized protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_037930 PE=3 SV=1	121	30.579	7	6.96e-09	50.8	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8GMJ1|L8GMJ1_ACACA	578	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_365410 PE=4 SV=1	171	26.316	15	8.02e-09	52.5	82
+sp|P51149|RAB7A_HUMAN	207	tr|L8GWS3|L8GWS3_ACACA	273	Small GTPbinding protein domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_064510 PE=4 SV=1	126	27.778	12	1.08e-08	51.1	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8HGC2|L8HGC2_ACACA	181	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_376580 PE=4 SV=1	176	25.000	22	1.13e-08	50.0	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJP1|L8GJP1_ACACA	232	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_339750 PE=4 SV=1	192	27.604	29	2.30e-08	50.0	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLF7|L8GLF7_ACACA	675	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_077260 PE=4 SV=1	178	25.281	20	3.09e-08	50.8	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8H7I8|L8H7I8_ACACA	558	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_285560 PE=4 SV=1	171	25.146	7	5.16e-08	50.0	81
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLV9|L8GLV9_ACACA	223	Cell division control protein 42, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_100010 PE=4 SV=1	59	37.288	1	6.63e-08	48.6	29
+sp|P51149|RAB7A_HUMAN	207	tr|L8HFR1|L8HFR1_ACACA	518	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_143700 PE=3 SV=1	126	28.571	19	1.13e-07	49.1	61
+sp|P51149|RAB7A_HUMAN	207	tr|L8HCY9|L8HCY9_ACACA	150	Ras-related C3 botulinum toxin substrate 3 (Rho family, small GTP binding protein Rac3), putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_070050 PE=4 SV=1	82	30.488	6	1.66e-07	46.6	39
+sp|P51149|RAB7A_HUMAN	207	tr|L8HLU5|L8HLU5_ACACA	277	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_292870 PE=4 SV=1	91	36.264	6	2.28e-07	47.4	43
+sp|P51149|RAB7A_HUMAN	207	tr|L8H3H3|L8H3H3_ACACA	201	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_201550 PE=4 SV=1	71	32.394	13	3.96e-07	46.3	34
+sp|P51149|RAB7A_HUMAN	207	tr|L8H5A6|L8H5A6_ACACA	312	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054300 PE=4 SV=1	186	24.731	14	5.05e-07	46.9	86
+sp|P51149|RAB7A_HUMAN	207	tr|L8GU84|L8GU84_ACACA	175	RHOQ protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_146410 PE=4 SV=1	135	25.926	20	5.50e-07	45.5	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8HC60|L8HC60_ACACA	257	Rasrelated protein Rap-1b, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_396120 PE=4 SV=1	91	29.670	2	5.65e-07	46.3	44
+sp|P51149|RAB7A_HUMAN	207	tr|L8GMJ7|L8GMJ7_ACACA	286	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_366560 PE=4 SV=1	96	28.125	2	8.77e-07	46.0	45
+sp|P51149|RAB7A_HUMAN	207	tr|L8GUW5|L8GUW5_ACACA	186	ADPribosylation factor, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_382900 PE=3 SV=1	140	24.286	10	1.30e-06	44.6	68
+sp|P51149|RAB7A_HUMAN	207	tr|L8GZI5|L8GZI5_ACACA	514	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_138370 PE=4 SV=1	92	27.174	6	4.72e-06	44.4	42
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJR0|L8GJR0_ACACA	352	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_096390 PE=4 SV=1	98	27.551	4	5.52e-06	44.1	47
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIF4|L8GIF4_ACACA	177	Ranlike small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_400260 PE=4 SV=1	163	21.472	14	1.42e-05	41.5	79
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIF8|L8GIF8_ACACA	2812	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_400320 PE=3 SV=1	103	29.126	10	2.67e-05	42.4	45
+sp|P51149|RAB7A_HUMAN	207	tr|L8H5E1|L8H5E1_ACACA	94	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_054700 PE=4 SV=1	52	44.231	2	2.84e-05	39.6	25
+sp|P51149|RAB7A_HUMAN	207	tr|L8HHG8|L8HHG8_ACACA	97	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_172370 PE=4 SV=1	41	48.780	1	3.06e-05	39.6	20
+sp|P51149|RAB7A_HUMAN	207	tr|L8GR60|L8GR60_ACACA	803	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_216300 PE=4 SV=1	45	44.444	0	1.55e-04	40.1	22
+sp|P51149|RAB7A_HUMAN	207	tr|L8HCX9|L8HCX9_ACACA	2708	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_360610 PE=3 SV=1	137	29.927	16	1.91e-04	39.9	60
+sp|P51149|RAB7A_HUMAN	207	tr|L8H6W0|L8H6W0_ACACA	252	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_206070 PE=4 SV=1	140	24.286	19	2.10e-04	39.0	65
+sp|P51149|RAB7A_HUMAN	207	tr|L8HKD9|L8HKD9_ACACA	179	ADPribosylation factor, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_084890 PE=3 SV=1	122	25.410	12	2.25e-04	38.4	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8HIM0|L8HIM0_ACACA	179	Arl5family small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_295340 PE=3 SV=1	134	26.119	10	2.80e-04	38.2	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8HFJ9|L8HFJ9_ACACA	180	GTPbinding ADP-ribosylation factor Arf1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_071350 PE=3 SV=1	122	22.131	8	3.32e-04	37.9	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GDE2|L8GDE2_ACACA	181	ADPribosylation factor 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_387900 PE=3 SV=1	123	26.829	10	3.57e-04	37.9	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVM2|L8GVM2_ACACA	266	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_304390 PE=4 SV=1	82	30.488	3	3.98e-04	38.4	40
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8W6|L8H8W6_ACACA	1950	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_022700 PE=3 SV=1	194	23.196	23	0.001	37.3	84
+sp|P51149|RAB7A_HUMAN	207	tr|L8GSD7|L8GSD7_ACACA	699	Ras family protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_163400 PE=4 SV=1	162	25.926	14	0.001	37.3	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8H8Z9|L8H8Z9_ACACA	357	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_286140 PE=4 SV=1	170	24.118	17	0.001	37.0	77
+sp|P51149|RAB7A_HUMAN	207	tr|L8HB34|L8HB34_ACACA	1175	Eukaryotic translation initiation factor 5B OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_322560 PE=4 SV=1	175	26.857	40	0.003	36.5	75
+sp|P51149|RAB7A_HUMAN	207	tr|L8HC26|L8HC26_ACACA	343	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_252170 PE=4 SV=1	164	22.561	19	0.004	35.9	78
+sp|P51149|RAB7A_HUMAN	207	tr|L8H7W5|L8H7W5_ACACA	1887	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_024410 PE=3 SV=1	142	27.465	23	0.004	35.9	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVA6|L8GVA6_ACACA	242	Ras subfamily protein (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_057550 PE=4 SV=1	87	26.437	4	0.007	34.8	42
+sp|P51149|RAB7A_HUMAN	207	tr|L8HD25|L8HD25_ACACA	190	Sar1family small GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_070570 PE=3 SV=1	132	23.485	8	0.008	33.9	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8H772|L8H772_ACACA	331	Ankyrin domain containing ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_052540 PE=4 SV=1	32	46.875	0	0.009	34.5	15
+sp|P51149|RAB7A_HUMAN	207	tr|L8HI81|L8HI81_ACACA	274	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_175920 PE=4 SV=1	70	28.571	0	0.011	34.2	34
+sp|P51149|RAB7A_HUMAN	207	tr|L8GWK6|L8GWK6_ACACA	421	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_061280 PE=4 SV=1	135	20.000	9	0.021	33.7	64
+sp|P51149|RAB7A_HUMAN	207	tr|L8GIE9|L8GIE9_ACACA	184	ADPribosylation factor 1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_092970 PE=3 SV=1	123	25.203	12	0.038	32.3	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8HD65|L8HD65_ACACA	2722	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_071050 PE=3 SV=1	87	25.287	8	0.067	32.5	41
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVF7|L8GVF7_ACACA	421	Obg family GTPase CgtA, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_043630 PE=3 SV=1	161	24.845	10	0.12	31.4	73
+sp|P51149|RAB7A_HUMAN	207	tr|L8GJF2|L8GJF2_ACACA	1674	guanylate cyclase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_098240 PE=4 SV=1	65	24.615	0	0.15	31.4	31
+sp|P51149|RAB7A_HUMAN	207	tr|L8GM38|L8GM38_ACACA	1015	Protein kinase domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_237790 PE=3 SV=1	102	25.490	1	0.23	30.8	49
+sp|P51149|RAB7A_HUMAN	207	tr|L8H553|L8H553_ACACA	738	ADPribosylation factor subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_186700 PE=4 SV=1	174	22.989	22	0.23	30.6	83
+sp|P51149|RAB7A_HUMAN	207	tr|L8GWL6|L8GWL6_ACACA	184	ADPribosylation factor, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_060640 PE=3 SV=1	81	25.926	5	0.25	29.7	39
+sp|P51149|RAB7A_HUMAN	207	tr|L8GLP7|L8GLP7_ACACA	2148	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_098030 PE=3 SV=1	73	23.288	4	0.26	30.6	35
+sp|P51149|RAB7A_HUMAN	207	tr|L8H0F0|L8H0F0_ACACA	146	GTPbinding protein SARA, putative (Fragment) OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_369860 PE=3 SV=1	76	28.947	4	0.34	29.2	36
+sp|P51149|RAB7A_HUMAN	207	tr|L8H1R3|L8H1R3_ACACA	1283	Protein kinase domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_336150 PE=3 SV=1	73	31.507	3	0.38	30.0	35
+sp|P51149|RAB7A_HUMAN	207	tr|L8HEM7|L8HEM7_ACACA	227	Small GTPbinding ADP-ribosylation factor OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_068070 PE=3 SV=1	80	23.750	5	0.42	29.4	39
+sp|P51149|RAB7A_HUMAN	207	tr|L8GEB5|L8GEB5_ACACA	178	Ras subfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_389000 PE=4 SV=1	18	55.556	0	0.46	29.2	9
+sp|P51149|RAB7A_HUMAN	207	tr|L8H979|L8H979_ACACA	2378	ATPase/histidine kinase/DNA gyrase B/HSP90 domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_280290 PE=3 SV=1	23	52.174	0	0.56	29.7	11
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPG0|L8GPG0_ACACA	2426	Leucine-rich repeat and WD repeat-containing protein 1 OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_214570 PE=3 SV=1	143	23.077	27	1.3	28.6	59
+sp|P51149|RAB7A_HUMAN	207	tr|L8HK91|L8HK91_ACACA	586	Mitochondrial Rho GTPase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_175050 PE=3 SV=1	177	22.034	52	1.6	28.0	80
+sp|P51149|RAB7A_HUMAN	207	tr|L8GVA9|L8GVA9_ACACA	226	Fbox domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_042330 PE=4 SV=1	98	22.449	11	2.0	27.5	42
+sp|P51149|RAB7A_HUMAN	207	tr|L8HFS4|L8HFS4_ACACA	718	ABC2 type transporter, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_026860 PE=4 SV=1	37	32.432	0	2.1	27.8	18
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYH9|L8GYH9_ACACA	2133	ROCO family protein kinase, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_209890 PE=3 SV=1	48	27.083	0	2.1	28.0	23
+sp|P51149|RAB7A_HUMAN	207	tr|L8H9J2|L8H9J2_ACACA	1165	RNA helicase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_125980 PE=4 SV=1	19	42.105	0	2.2	27.8	9
+sp|P51149|RAB7A_HUMAN	207	tr|L8HIZ3|L8HIZ3_ACACA	2500	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_288810 PE=3 SV=1	72	25.000	6	2.2	27.8	35
+sp|P51149|RAB7A_HUMAN	207	tr|L8GRX8|L8GRX8_ACACA	180	Uncharacterized protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_306870 PE=4 SV=1	62	22.581	6	2.5	26.9	27
+sp|P51149|RAB7A_HUMAN	207	tr|L8HIZ2|L8HIZ2_ACACA	578	Ribosome biogenesis GTPase YqeH, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_013380 PE=4 SV=1	26	42.308	0	2.8	27.5	13
+sp|P51149|RAB7A_HUMAN	207	tr|L8GHP8|L8GHP8_ACACA	1936	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_372740 PE=3 SV=1	78	24.359	6	2.9	27.5	38
+sp|P51149|RAB7A_HUMAN	207	tr|L8HDF4|L8HDF4_ACACA	1775	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_068460 PE=3 SV=1	73	21.918	5	3.0	27.5	35
+sp|P51149|RAB7A_HUMAN	207	tr|L8GPH1|L8GPH1_ACACA	2154	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_214880 PE=3 SV=1	78	23.077	6	3.2	27.5	38
+sp|P51149|RAB7A_HUMAN	207	tr|L8GYJ5|L8GYJ5_ACACA	2456	Leucine-rich repeat and WD repeat-containing protein 1 OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_063470 PE=3 SV=1	97	27.835	12	3.3	27.5	41
+sp|P51149|RAB7A_HUMAN	207	tr|L8GKR4|L8GKR4_ACACA	195	Small copii coat gtpase sar1, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_239230 PE=3 SV=1	120	27.500	10	3.8	26.3	57
+sp|P51149|RAB7A_HUMAN	207	tr|L8HEK4|L8HEK4_ACACA	1249	non-specific serine/threonine protein kinase OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_072020 PE=3 SV=1	50	30.000	2	4.3	26.9	24
+sp|P51149|RAB7A_HUMAN	207	tr|L8GHA6|L8GHA6_ACACA	342	Rasrelated GTP-binding protein, putative OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_033670 PE=3 SV=1	90	24.444	5	5.7	26.3	42
+sp|P51149|RAB7A_HUMAN	207	tr|L8H9F6|L8H9F6_ACACA	2038	Protein kinase domain containing protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_007750 PE=3 SV=1	137	21.168	21	5.7	26.6	58
+sp|P51149|RAB7A_HUMAN	207	tr|L8GZC5|L8GZC5_ACACA	698	ABC2 type transporter superfamily protein OS=Acanthamoeba castellanii str. Neff OX=1257118 GN=ACA1_321610 PE=4 SV=1	43	27.907	0	6.9	26.3	21
